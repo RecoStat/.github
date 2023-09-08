@@ -52,28 +52,22 @@ LUNCH BREAK
 ### 14/06 - DAY 2
 
 
-large scale (e.g. global magnetosheath/magnetopause) stats
-ML based detection of in situ events
-solar wind events
-energy conversion / EDRs
-Tooling : On-going devs and future directions
-
 
 - 9:00 - 9:30 : Data exploration and cataloging tools, SciQLOP/Speasy etc., goals, overview and live demo - Nico & Alexis & Vincent
-- 9:30 - 10:00 - The BibHelioTech project, prototype and future developments / Last news on AMDA - Vincent
-- 10:00 - 10:30 - PAUSE - Tool setup on machines
-- 10:30 - 12:00 - Team work 
-- 12:00 - 13:30 - PAUSE DÉJEUNER 
+- 9:30 - 10:00 : The BibHelioTech project, prototype and future developments / Last news on AMDA - Vincent
+- 10:00 - 10:30 : PAUSE - Tool setup on machines
+- 10:30 - 12:00 : Team work 
+- 12:00 - 13:30 - LUNCH BREAK 
 - 13:30 - 14:00 : Debrief
-- 14:00 - 16:30 - Team work 
-- 16:30 - 17:00 - Debrief
+- 14:00 - 16:30 : Team work 
+- 16:30 - 17:00 : Debrief
 
 —---------------------—---------------------—---------------------—---------------------—------------------------
 ### 15/06  : DAY 3
 
 - 9:00 - 12:00 : Team work
 - 12:00 - 12:30 : Debrief
-- 12:30 - 14:00 - PAUSE DEJEUNER
+- 12:30 - 14:00 - LUNCH BREAK
 - 14:00 - 16:30 - Team work
 - 16:30 - 17:00 - Debrief of the team work and perspectives
 - 17:00 - END OF WORKSHOP
