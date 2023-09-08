@@ -43,7 +43,7 @@ It is a small Hamlet with 5 houses with 3 bedroom each, a house with a fully equ
 
 ### The seminar room
 
-![IMG_3141](https://github.com/RecoStat/.github/assets/3200931/3925234b-6a46-40ec-a418-4ac66ea2025f)
+<img width="1016" alt="Capture d’écran 2023-09-08 à 16 14 17" src="https://github.com/RecoStat/.github/assets/3200931/97b73455-b95a-4ba9-bc3a-c2dec7a29d7c">
 
 
 ## Funding
@@ -57,5 +57,6 @@ Funding is currently being asked to:
 
 ## Previous editions of the workshop
 
+- [Recostat 2023](recostat2023.md)
 - [Recostat 2022](recostat2022.md)
 
