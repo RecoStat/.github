@@ -53,6 +53,7 @@ Funding is currently being asked to:
 - [[Programme National Soleil Terre (PNST)]](https://pnst.ias.u-psud.fr/fr/accueil)
 - [[Fédération Plas@Par]](https://www.plasapar.sorbonne-universite.fr)
 - [[EUR PlasmaScience]](https://www.ip-paris.fr/en/research/research-departments-laboratories-centers-and-projects/disciplinary-and-interdisciplinary-centers/plasmascience)
+- [[IPI Initiative Physique des Infinis]](https://ipi-sorbonne-universite.fr)
 
 
 ## Previous editions of the workshop

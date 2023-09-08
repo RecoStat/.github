@@ -38,7 +38,7 @@ The 2022 edition of the RECOSTAT workshop gathered researchers from the LPP, LAB
 
 ### Funding and Acknowledgments
 
-- Programme National Soleil Terre (PNST)
+- [[Programme National Soleil Terre (PNST)]](https://pnst.ias.u-psud.fr/fr/accueil)
 - CNES
 - CDPP
 

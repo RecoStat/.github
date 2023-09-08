@@ -73,3 +73,12 @@ LUNCH BREAK
 - 17:00 - END OF WORKSHOP
 
 
+
+## Funding
+
+We acknowlegde funding from:
+
+- [[Programme National Soleil Terre (PNST)]](https://pnst.ias.u-psud.fr/fr/accueil)
+- CNES and laboratory of plasma physics (LPP)
+- [[CDPP]](https://cdpp.irap.omp.eu)
+
