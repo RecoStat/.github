@@ -214,8 +214,7 @@ There are 5 fully-equipped houses with 3 bedroom each. They are mostly the same.
 
 We acknowledge funding from: 
 
-- [Programme National Soleil Terre (PNST)](https://pnst.ias.u-psud.fr/f![image](https://github.com/RecoStat/.github/assets/3200931/6eec0055-43ef-4bf1-b74c-943a8902151d)
-r/accueil)
+- [Programme National Soleil Terre (PNST)](https://pnst.ias.u-psud.fr/)
 - [Fédération Plas@Par](https://www.plasapar.sorbonne-universite.fr)
 - [EUR PlasmaScience](https://www.ip-paris.fr/en/research/research-departments-laboratories-centers-and-projects/disciplinary-and-interdisciplinary-centers/plasmascience)
 - [Initiative Physique des Infinis](https://ipi-sorbonne-universite.fr)
