@@ -214,6 +214,7 @@ Below are a selection of papers related to the topic of the workshop.
 - Hoshi, Y., Hasegawa, H., & of, N. K. J. (2018). Seasonal and Solar Wind Control of the Reconnection Line Location on the Earth’s Dayside Magnetopause. Journal of Geophysical Research Space. https://doi.org/10.1029/2018ja025305
 - Fuselier, S. A., K. J. Trattner, S. M. Petrinec, K. R. Pritchard, J. L. Burch, P. A. Cassak, B. L. Giles, B. Lavraud, R. J. Strangeway, Stationarity of the reconnection X-line at Earth’s magnetopause for southward IMF, J. Geophys. Res., 124, 8524-8534, [https://doi.org/10.1029/2019JA027143](https://doi.org/10.1029/2019JA027143), 2019.
 - Trattner, K. J., Petrinec, S. M. & Fuselier, S. ~A. The Location of Magnetic Reconnection at Earth’s Magnetopause. [Space Science Reviews 217, 1–47 (2021)](https://link.springer.com/article/10.1007/s11214-021-00817-8).
+- Petrinec, S. M., Burch, J. L., Fuselier, S. A., Trattner, K. J., Giles, B. L., & Strangeway, R. J. (2022). On the occurrence of magnetic reconnection along the terrestrial magnetopause, using Magnetospheric Multiscale (MMS) observations in proximity to the reconnection site. Journal of Geophysical Research: Space Physics, 127, e2021JA029669. https://doi. org/10.1029/2021JA029669
 
 ### local simulations and X-line orientation
 - Hesse, M., Aunai, N., Zenitani, S., Kuznetsova, M., & Birn, J. (2013). Aspects of collisionless magnetic reconnection in asymmetric systems. Phys Plasmas, 20(6), 1210. [https://doi.org/10.1063/1.4811467](https://doi.org/10.1063/1.4811467)
